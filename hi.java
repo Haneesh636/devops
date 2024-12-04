@@ -1,4 +1,5 @@
-class hi{
+public class hi{
 public static void main(String[] args){
-system.out.println("hello");
+System.out.println("hello");
+}
 }
